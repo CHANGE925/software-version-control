@@ -1,0 +1,14 @@
+{
+  "software_name": "sensor_RAA",
+  "latest_version": "1.0.0",
+  "min_required_version": "1.0.0",
+  "update_url": "https://github.com/你的用户名/你的软件/releases",
+  "enabled": true,
+  "message": "软件正常运行中",
+  "checksum": "sha256-hash-here",
+  "features": {
+    "basic": true,
+    "export": true,
+    "advanced": false
+  }
+}
